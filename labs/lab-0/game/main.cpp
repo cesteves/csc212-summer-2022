@@ -19,7 +19,7 @@ int main(){
 // or by adjusting the power of items.
 // If the stats & item power is balanced, the outcome of the fight is determined by RNG item drops.
 void battle_demo(){
-	 Entity hero = Entity("Hero", 20, 5);
+	 Entity hero = Entity("Hero", 10, 5);
 
 	std::vector<Entity*> enemies;
 	enemies.push_back(new Entity("Enemy 1", 10, 2));
