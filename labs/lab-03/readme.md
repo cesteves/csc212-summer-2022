@@ -112,7 +112,7 @@ void AddFive(int & ptr){
 }
 ```
 
-Take a look at [this article](https://www.geeksforgeeks.org/pointers-vs-references-cpp/) for a little more reading on pointers and references, then answer these questions.
+Take a look at [this article](https://www.geeksforgeeks.org/pointers-vs-references-cpp/) for a little more reading on pointers and references.
 
 ##### Linked Lists
 
@@ -248,4 +248,3 @@ You should submit the following files:
 - node.hp
 - node.cpp
 - main.cpp
-- answers.txt (this file contains any answers to non-coding questions in this lab)
