@@ -218,7 +218,7 @@ Your task is to create a ```SinglyLinkedList``` class that utilizes a ```Node```
   - Adds an integer to the end of the list
 - `insert`
   - Adds an integer to the list at a specific index
-- `delete`
+- `del`
   - Searches for & removes a specific element in the list
 - `contains`
   - Returns true if the given value exists in the list. False otherwise.
@@ -235,7 +235,7 @@ Your task is to create a ```SinglyLinkedList``` class that utilizes a ```Node```
 #### Requirements
 1. Implement `to_string`, `push_front`, and `push_back`
 2. Implement `contains` and `size`
-3. Implement `insert` and `delete`
+3. Implement `insert` and `del`
 
 ---
 
