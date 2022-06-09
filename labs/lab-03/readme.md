@@ -245,6 +245,6 @@ You should submit the following files:
 
 - linked-list.h
 - linked-list.cpp
-- node.hp
+- node.h
 - node.cpp
 - main.cpp
