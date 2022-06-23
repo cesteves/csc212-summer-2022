@@ -73,7 +73,7 @@ Re-implement your Priority Queue using the Heap structure covered during yesterd
 
 ### Your Task
 
-You are given code for a working Linked List in the "lab 4 solution" folder and are tasked with modifying it to be a Queue, then a Priority Queue.
+You are given code for a working Linked List in the "lab 3 solution" folder and are tasked with modifying it to be a Queue, then a Priority Queue.
 
 ---
 
