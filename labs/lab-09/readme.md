@@ -109,7 +109,7 @@ Your job will be to solve the following problems for each of the two programs. M
 
 ![image](./images/problem-3-sol.png)
 
-- Color all edges based on their distance from the start (Hint: Use depth-first search!)
+- Color all edges based on their distance from the start
 
 ![image](./images/problem-4-sol.png)
 
