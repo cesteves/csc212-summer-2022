@@ -119,7 +119,7 @@ The data base is comma-separated; the third column of data is the state/province
 
 ### 5.1 Starter Code
 
-You will be given lab-13.cpp, and confirmed_cases.txt (database of confirmed COVID-19 cases), fill in the required functions and test if your code is correct by running the program. The program will output "All tests passed" if everything checks out. There is also a marked space in the main to create any custom tests you may think of. It is recommended that you create custom tests to ensure that your individual functions are correct as well as to answer some of the questions below.
+You will be given main.cpp, and confirmed_cases.txt (database of confirmed COVID-19 cases), fill in the required functions and test if your code is correct by running the program. The program will output "All tests passed" if everything checks out. There is also a marked space in the main to create any custom tests you may think of. It is recommended that you create custom tests to ensure that your individual functions are correct as well as to answer some of the questions below.
 
 ### 5.2 Questions
 
